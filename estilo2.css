@@ -1,0 +1,38 @@
+body{
+background:  #070d3b;
+}
+#imgMoneda{
+height: 45;
+}
+#imgMonedas{
+height: 45;
+}
+#panel{
+height: 10%;
+max-height: 10%;
+min-height: 10%;
+background: black;
+color: white;
+}
+#proyectos{
+width: 100%;
+height: 80%;
+}
+#youtube{
+background:  rgba( 199, 0, 57, 0.7);
+}
+#canalT{
+background:  rgba( 23, 143, 122 ,0.7);
+}
+#chatT{
+background: rgba( 10, 143, 126, 0.7);
+}
+#twitter{
+background: rgba( 3, 140, 232, 0.8);
+}
+#preguntas{
+background: rgba( 255, 195, 0, 0.5);
+}
+#condiciones{
+background: rgba( 218, 247, 166, 0.8);
+}

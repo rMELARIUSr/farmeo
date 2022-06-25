@@ -1,0 +1,60 @@
+body{
+background-color: #000;
+background-image: repeating-linear-gradient(90deg, transparent, transparent 50px,
+      rgba( 59, 236, 32 , 0.25) 50px, rgba( 59, 236, 32 , 0.25) 56px, transparent 56px, transparent 63px,
+      rgba( 59, 236, 32 , 0.25) 63px, rgba( 59, 236, 32 , 0.25) 69px, transparent 69px, transparent 116px,
+      rgba( 59, 236, 32 , 0.25) 116px, rgba( 59, 236, 32 , 0.25) 166px),
+repeating-linear-gradient(0deg, transparent, transparent 50px, rgba( 59, 236, 32 , 0.25) 50px,
+      rgba( 59, 236, 32 , 0.25) 56px, transparent 56px, transparent 63px, rgba( 59, 236, 32 , 0.25) 63px,
+      rgba( 59, 236, 32 , 0.25) 69px, transparent 69px, transparent 116px, rgba( 59, 236, 32 , 0.25) 116px,
+      rgba( 59, 236, 32 , 0.25) 166px),
+repeating-linear-gradient(-45deg, transparent, transparent 5px, rgba( 20, 30, 238, 0.25) 5px,
+      rgba( 20, 30, 238, 0.25) 10px),
+repeating-linear-gradient(45deg, transparent, transparent 5px, rgba( 20, 30, 238, 0.25) 5px,
+      rgba( 20, 30, 238, 0.25) 10px);
+
+}
+#form{
+background: rgba(0, 0, 0, 0.7);
+}
+
+#bienvenido{
+color:   #eef090;
+font-size: 20;
+}
+
+#fecha{
+color:   #eef090;
+font-size: 20;
+}
+
+#moneda{
+max-width: 100%;
+}
+
+#monedas{
+max-width: 100%;
+}
+
+#pupusas{
+color: red;
+font-size: 18;
+}
+
+#hecho{
+background: black;
+}
+
+#parte1{
+background: rgba( 144, 12, 63, 0.8);
+}
+
+#clave{
+background: rgba( 23, 95, 57, 0.5);
+color:  #faf444 ;
+}
+
+#billetera{
+background: rgba( 23, 95, 57, 0.5);
+color:  #faf444 ;
+}
