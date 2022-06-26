@@ -36,3 +36,22 @@ background: rgba( 255, 195, 0, 0.5);
 #condiciones{
 background: rgba( 218, 247, 166, 0.8);
 }
+
+#seccion1{
+background: rgba(0, 45, 57, 0.5);
+height: 70%;
+}
+#seccion2{
+background: rgba(0, 0, 0, 0.5);
+height: 30%;
+color: white;
+}
+#seccion3{
+height: 70%;
+background: rgba(0, 45, 57, 0.5);
+}
+#seccion4{
+background: rgba(0, 0, 0, 0.5);
+height: 30%;
+color: white;
+}
